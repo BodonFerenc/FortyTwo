@@ -1,0 +1,2 @@
+# FortyTwo
+Placeholder for article
